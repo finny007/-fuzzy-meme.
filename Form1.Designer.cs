@@ -1,3 +1,4 @@
+kill me
 ﻿namespace LenghtconverWFA
 {
     partial class Form1
